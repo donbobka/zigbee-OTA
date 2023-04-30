@@ -150,12 +150,12 @@
     },
     {
         "minFileVersion": 16783874,
-        "fileVersion": 16785920,
+        "fileVersion": 16786176,
         "fileSize": 267644,
         "manufacturerCode": 4107,
         "imageType": 268,
-        "sha512": "160f164751ef3ba063aa3d5c2df06080d18fdbee1497e351cd79c76390972e06b1c6a649203121a687d31dd79b6d429f216490e7ffe167ff4eb13d969f4de124",
-        "url": "http://fds.dc1.philips.com/firmware/ZGB_100B_010C/16785920/100B-010C-01002200-ConfLight-Lamps_0012.zigbee"
+        "sha512": "6cea3340de9e466396c5612475f714e3ade2507ed972ba04403e1be288d28cb167cde0ad5613dbb1a89e52ab08c201f151f766587d751c025586122c6c6434cc",
+        "url": "http://fds.dc1.philips.com/firmware/ZGB_100B_010C/16786176/100B-010C-01002300-ConfLight-Lamps_0012.zigbee"
     },
     {
         "maxFileVersion": 16783873,
